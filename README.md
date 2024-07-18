@@ -1,2 +1,1 @@
 # amazonclone
-#added readme
